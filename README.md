@@ -1,6 +1,6 @@
 # State Locking Static Website Project : An S3 bucket that stores static website files and is distributed by CloudFront.
 
-! Image
+<img width="1008" height="412" alt="Static Website Files" src="https://github.com/user-attachments/assets/84716f65-02f7-4664-9f1d-2fc202bcef51" />
 
 ## The problem
 
