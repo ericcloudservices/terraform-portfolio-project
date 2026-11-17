@@ -20,4 +20,5 @@ Some of my CloudFormation coding habits are becoming mistakes in Terraform. I ne
 ## Result
 The terraform.tfstate file is secured in a private S3 bucket and a next.js static website accessible by a CloudFront url.
 ￼
-￼
+￼<img width="597" height="345" alt="Amazon S3  Buckets  eric-big-bucket-beyond  globall  s3" src="https://github.com/user-attachments/assets/d30df5b1-4a74-4db3-8849-c4bd23f60deb" /> <img width="987" height="795" alt="Welcome to Next js!" src="https://github.com/user-attachments/assets/ce1df40c-070f-4ca0-aafa-c6c569880780" />
+
